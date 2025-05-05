@@ -5,3 +5,4 @@ description = "金蝶云星空 MCP Server：让 Claude/Cursor 等 AI 助手用�
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# clarify the control flow
